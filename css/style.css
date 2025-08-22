@@ -44,3 +44,83 @@
     height: 65px;
     border-radius: 5px;
 }
+/* .main section  */
+#devlapment{
+    background-color: #d5d9e71e;
+    margin-top: 74px;
+    margin-left: 140px;
+    margin-right: 140px;
+    border-radius: 5px;
+    height: 1400px;
+}
+.devlaper-main1{
+    margin: 80px;
+}
+.title{
+    text-align: center;
+    padding-top: 80px;
+}
+.devlaper-title{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 0%;
+    word-spacing: 10px;
+}
+.devlaper-description{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+    word-spacing: 10px;
+    margin-top: 25px;
+}
+.card1{   
+    margin-top: 46px;
+    background-color: white;
+    border-radius: 10px;
+}
+.card2{
+    
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.card-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;    
+    word-spacing: 10px;
+}
+.card-dexption{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7; 
+    word-spacing: 10px;
+    margin-top: 20px;
+}
+.btn{     
+    width: 171px;
+    height: 47px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10;
+    padding: 12px 20px 12px 20px;
+    margin-top: 30px;
+}
