@@ -162,4 +162,71 @@
     height: 550px;
     margin-bottom: 151px;
 }
+/* carrent target section  */
+#current-target{
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.target-title{
+    text-align: center;
+    margin-bottom: 48px;
+}
+.target-card-main{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 111px;
+}
+.html-card{
+    background-color: #ff4b1e1b;
+    padding: 40px;
+    width: 364px;
+    height: 299px;
+    border-radius: 10px;
+}
+.css-card{
+    background-color: #004de821;
+    padding: 40px;
+    width: 364px;
+    height: 299px;
+    border-radius: 10px;
+}
+.js-card{
+    background-color: #ffdd001e;
+    padding: 40px;
+    width: 364px;
+    height: 299px;
+    border-radius: 10px;
+}
+.card{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 20px;
+}
+.card-description{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;    
+    word-spacing: 10px;
+    margin-bottom: 25px;
+}
+.card-button{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 500;    
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;    
+}
 
