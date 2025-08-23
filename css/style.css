@@ -229,4 +229,121 @@
     text-align: left;
     text-decoration-line: underline;    
 }
-
+/* my next terget section  */
+.next-terget-card{
+    display: flex;
+    padding:40px;
+    border-radius: 10px;
+    gap: 30px;
+    margin-bottom: 20px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 1);
+}
+.next-header-title{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 34px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 8px;
+}
+.next-header-dexc{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    margin-bottom: 20px;
+}
+.next-header-button{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;    
+}
+/* contarackt section  */
+#concrac-section{
+    background-image: url('../assets/handshake.jpg');
+    margin-left: 140px;
+    margin-right: 140px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    margin-bottom: 80px;
+    
+}
+.section-continer{
+    padding: 48px 64px 48px 64px;
+}
+.input-main{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.joy{
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    width: 500px;
+    color: rgba(13, 19, 33, 0.4);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0%;   
+    word-spacing: 5px; 
+}
+.input-btn{
+    border: none;
+    border-radius: 10px;
+    width: 120px;
+    height: 57px;
+    color: rgba(13, 19, 33, 1);    
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+/* footer section  */
+.footer-main{
+   border-radius: 16px;
+   background: rgba(13, 19, 33, 0.03);
+   display: flex;
+   justify-content: space-around;
+   height: 100px;
+   width: 100%;
+   align-items: center;
+}
+.footer-title{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;    
+    word-spacing: 10px;
+}
+.footer-icon{
+    display: flex;
+    gap: 24px;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+}
